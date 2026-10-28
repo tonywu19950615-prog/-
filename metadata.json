@@ -1,0 +1,6 @@
+{
+  "name": "Taipei NightSafe - 台北夜間酒吧夜店地圖與安全庇護所導航",
+  "description": "收錄台北登記酒吧與夜店，標記西門町中華路成都路口、林森公園、花博公園、瑠公公園、信義廣場等夜間治安熱區遊覽車安全庇護所，提供一鍵報警與路線導航。",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
